@@ -1,5 +1,5 @@
 function sim() {
-    alert("Você aceitou namorar comigo! :)");
+    alert("VOCE DECIDIU ME ARRUMAR UMA LOIRA GOSTOSA :)");
     // redireciona 
     location.href = "flower.html";
 }
