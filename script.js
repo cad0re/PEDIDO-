@@ -1,5 +1,5 @@
 function sim() {
-    alert("VOCE DECIDIU ME ARRUMAR UMA LOIRA GOSTOSA :)");
+    alert("VOCE DECIDIU SE AFUNDAR EM DIVIDAS MAS ME FEZ FELIZ! ");
     // redireciona 
     location.href = "flower.html";
 }
